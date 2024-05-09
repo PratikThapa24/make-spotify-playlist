@@ -32,3 +32,4 @@ f. Add each track to the newly created playlist in Spotify using the 'spotipy' m
 g. Once all the songs have been added, the playlist will be created and populated with the top 100 songs from Billboard.
 
 By combining Beautiful Soup for scraping the top 100 playlist from Billboard and Spotipy for creating the playlist in Spotify, you can automate the process of transferring the songs from one platform to another. This enables you to enjoy the Billboard's top tracks conveniently in your Spotify account.
+![IMG_8315](https://github.com/PratikThapa24/make-spotify-playlist/assets/125596457/ab428d48-08a0-4048-a152-3ae8ff03edb5)
